@@ -1,4 +1,6 @@
 {
-  "note": "Default update URL is obfuscated inside LunanCore and points to cocokea/lunan-updates. Only use this file to override manually.",
-  "version_url": ""
+  "version": "4.0",
+  "file_name": "lunan-core-v4.0.zip",
+  "download_url": "https://github.com/cocokea/lunan-updates/releases/download/v4.0/lunan-core-v4.0.zip",
+  "sha256": "35f3ae1750d7d7ca3f9a6666e2290065f02e0548adff8caf5a997b3a31ee9451"
 }
