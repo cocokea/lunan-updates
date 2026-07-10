@@ -1,0 +1,4 @@
+{
+  "note": "Default update URL is obfuscated inside LunanCore and points to cocokea/lunan-updates. Only use this file to override manually.",
+  "version_url": ""
+}
